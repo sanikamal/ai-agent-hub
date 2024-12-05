@@ -6,7 +6,10 @@ Welcome to **AI-Agent-Hub**! This repository is a collection of AI agent project
 
 |          **Title**           |                      **Description**                    |     **Technology/Tools**      |      **Link**         |
 |------------------------------|---------------------------------------------------------|-------------------------------|-----------------------|
-| **Simple ReAct Agent from Scratch** | Build a ReAct (Reasoning + Acting) agent from scratch, combining reasoning capabilities with action-oriented execution to solve tasks efficiently. | `ReAct`, `AI Agents`, `Python`,`OpenAI` | [Notebook Link](notebook/simple_react_agent_from_scratch.ipynb) |
+| **Simple ReAct Agent from Scratch** | Build a ReAct (Reasoning + Acting) agent from scratch, combining reasoning capabilities with action-oriented execution to solve tasks efficiently. | `ReAct`, `AI Agents`, `Python`,`OpenAI` | [Notebook](notebook/simple_react_agent_from_scratch.ipynb) |
+| **LangGraph Components** | Explore the components of LangGraph and combine them to build flow-based applications for seamless execution and management of tasks. | `LangGraph`, `AI Agents`, `OpenAI` | [Notebook](notebook/langgraph_components.ipynb) |
+| **Agentic Search** | Explore how agentic search retrieves multiple answers in a structured and predictable format, offering a streamlined alternative to traditional search engines that provide links. | `Agentic Search`, `AI Agents`, `LangGraph`, `Tavily` | [Notebook](notebook/agentic_search.ipynb) |
+
 
 ## How to Use 🚀
 
@@ -23,10 +26,10 @@ Welcome to **AI-Agent-Hub**! This repository is a collection of AI agent project
 3. **Run notebooks**:
    Open the notebooks with Jupyter Notebook or JupyterLab to explore each agent's implementation.
 
-## 🌟 Contributing
+## Contributing 🌟
 
 Contributions are welcome! If you have suggestions or want to add your own AI agent projects, feel free to open an issue or submit a pull request.
 
-## 📢 License
+## License 📢
 
 This project is licensed under the [MIT License](LICENSE).
