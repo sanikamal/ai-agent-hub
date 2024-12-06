@@ -12,6 +12,8 @@ Welcome to **AI-Agent-Hub**! This repository is a collection of AI agent project
 | **Persistence and Streaming** | Implementing persistence in agents to manage state across multiple threads, enable conversation switching, and reload previous states for continuity. | `State Management`, `Streaming`, `AI Agents`,`LangGraph` | [Notebook](notebook/persistence_and_streaming.ipynb) |
 | **Human in the Loop** | Integrating human-in-the-loop mechanisms into agent systems to enhance decision-making, validate outputs, and ensure higher accuracy. | `Human-in-the-Loop`, `AI Agents`, `Decision Making`, `LangGraph` | [Notebook](notebook/human_in_the_loop.ipynb) |
 | **LlamaIndex Router Query Engine** | Build a basic agentic RAG system by implementing a router that selects between query engines, such as Q&A or summarization, to execute queries over a single document. | `LlamaIndex`, `RAG`, `Query Engine` | [Notebook](notebook/llamaindex_router_query_engine.ipynb) |
+| **Llamaindex Tool Calling** | Enhancing the router agent by enabling tool calling, allowing an LLM to determine the appropriate function to execute and infer the required arguments. | `Llamaindex`, `LLM`, `Tool Calling`, `Function Execution` | [Notebook](notebook/llamaindex_tool_calling.ipynb) |
+
 ## How to Use 🚀
 
 1. **Clone the repository**:
