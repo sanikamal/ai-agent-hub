@@ -17,6 +17,7 @@ Welcome to **AI-Agent-Hub**! This repository is a collection of AI agent project
 | **Building an Agent Reasoning Loop with Llamaindex** | Developing a research assistant agent capable of reasoning over tools in a multi-step process, moving beyond single-shot tool calling. | `LLM`, `Llamaindex`, `Multi-step Reasoning`, `OpenAI` | [Notebook](notebook/llamaindex_agent_reasoning_loop.ipynb) |
 | **Building a Multi-Document Agent with Llamaindex** | Develop a multi-document agent using Llamaindex to intelligently navigate, summarize, and compare information across multiple research papers from arXiv. | `Llamaindex`, `Multi-Document Navigation`, `Summarization`, `Research Paper Comparison` | [Notebook](notebook/llamaindex_multi_document_agent.ipynb) |
 | **LLMs as Operating Systems: Agent Memory** | Demonstrates how Large Language Models (LLMs) can function as operating systems by managing and persisting memory efficiently, inspired by the MemGPT research paper. | `Letta`, `MemGPT`, `AI Agents`, `Memory Management` | [Notebook](llms-as-os-agent-memory/README.md) |
+| **Building AI Voice Agents for Production** | Design and deploy real-time AI voice agents for production use cases, combining speech and reasoning capabilities for natural, human-like conversations. | `LiveKit`, `RealAvatar`, `ElevenLabs`, `WebRTC`, `AI Voice Agents` | [Notebook](ai-voice-agents-for-production/README.md) |
 
 
 ## How to Use 🚀
