@@ -1,10 +1,9 @@
 # LLMs as Operating Systems: Agent Memory
 
-## Overview
-
 This repo demonstrates how Large Language Models (LLMs) can function as operating systems by managing and persisting memory efficiently. Inspired by the *MemGPT* research paper, the course demonstrates how to build agentic memory into applications using the **Letta** framework.
 
 LLMs have finite input context windows, making memory management crucial for scalability. By leveraging persistent storage, summarization, and retrieval, agents can optimize context use and achieve adaptive, collaborative behavior for real-world applications.
+
 ---
 
 ## Key Features
@@ -35,10 +34,10 @@ LLMs have finite input context windows, making memory management crucial for sca
 ## Notebooks
 
 1. **Editable Memory** — [Build and update memory in real time.](editable_memory.ipynb)
-2. **Building Agents with Memory** — Combine reasoning, tools, and memory into prompts.
-3. **Programming Memory** — Customize core memory with blocks and memory tools.
-4. **Agentic RAG & External Memory** — Connect external databases for retrieval-augmented workflows.
-5. **Multi-Agent Orchestration** — Share knowledge and collaborate via memory blocks.
+2. **Building Agents with Memory** — [Combine reasoning, tools, and memory into prompts.](building_agents_with_letta.ipynb)
+3. **Programming Agent Memory** — [Customize core memory with blocks and memory tools.](customizing_memory_management_in_MemGPT.ipynb)
+4. **Agentic RAG & External Memory** — [Connect external databases for retrieval-augmented workflows.](agentic_RAG_with_external_memory.ipynb)
+5. **Multi-Agent Orchestration** — [Share knowledge and collaborate via memory blocks.](multi_agent_orchestration_with_MemGPT.ipynb)
 
 ---
 
