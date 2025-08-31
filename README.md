@@ -16,6 +16,7 @@ Welcome to **AI-Agent-Hub**! This repository is a collection of AI agent project
 | **Llamaindex Tool Calling** | Enhancing the router agent by enabling tool calling, allowing an LLM to determine the appropriate function to execute and infer the required arguments. | `Llamaindex`, `LLM`, `Tool Calling`, `Function Execution` | [Notebook](notebook/llamaindex_tool_calling.ipynb) |
 | **Building an Agent Reasoning Loop with Llamaindex** | Developing a research assistant agent capable of reasoning over tools in a multi-step process, moving beyond single-shot tool calling. | `LLM`, `Llamaindex`, `Multi-step Reasoning`, `OpenAI` | [Notebook](notebook/llamaindex_agent_reasoning_loop.ipynb) |
 | **Building a Multi-Document Agent with Llamaindex** | Develop a multi-document agent using Llamaindex to intelligently navigate, summarize, and compare information across multiple research papers from arXiv. | `Llamaindex`, `Multi-Document Navigation`, `Summarization`, `Research Paper Comparison` | [Notebook](notebook/llamaindex_multi_document_agent.ipynb) |
+| **LLMs as Operating Systems: Agent Memory** | Demonstrates how Large Language Models (LLMs) can function as operating systems by managing and persisting memory efficiently, inspired by the MemGPT research paper. | `Letta`, `MemGPT`, `AI Agents`, `Memory Management` | [Notebook](llms-as-os-agent-memory/README.md) |
 
 
 ## How to Use 🚀
